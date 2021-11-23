@@ -8,3 +8,4 @@ console.log('test 5 added')
 console.log('test 6 added')
 console.log('test 7 added')
 
+console.log('test 6 added')
