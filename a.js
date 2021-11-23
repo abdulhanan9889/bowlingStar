@@ -6,3 +6,5 @@ console.log('third test by lisa');
 console.log('test 5 bug fixed')
 console.log('test 5 added')
 console.log('test 6 added')
+console.log('test 7 added')
+
