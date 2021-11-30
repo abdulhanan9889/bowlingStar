@@ -4,3 +4,4 @@ console.log('modification by lisa')
 console.log('branch diverge practise')
 console.log('third test by lisa');
 console.log('commit e');
+console.log('commit f');
